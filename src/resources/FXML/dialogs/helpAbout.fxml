@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane prefHeight="400.0" prefWidth="697.0" xmlns="http://javafx.com/javafx/8.0.261" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controller.dialogs.helpAbout">
+   <children>
+      <Label layoutX="125.0" layoutY="37.0" prefHeight="36.0" prefWidth="572.0" text="VNU-UET Software QUality Assurance System for C/C++">
+         <font>
+            <Font size="22.0" />
+         </font>
+      </Label>
+      <Label layoutX="125.0" layoutY="88.0" prefHeight="30.0" prefWidth="560.0" text="Powered by Software Engineering Laboratory - RD320, VNU-UET">
+         <font>
+            <Font size="18.0" />
+         </font></Label>
+      <Label layoutX="125.0" layoutY="134.0" prefHeight="17.0" prefWidth="547.0" text="Address: Room 320, E3 building, 144 Xuân Thủy, Cầu Giấy, Hà Nội">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+      <ImageView fitHeight="106.0" fitWidth="106.0" layoutX="7.0" layoutY="47.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../images/logo_uet.png" />
+         </image></ImageView>
+   </children>
+</AnchorPane>

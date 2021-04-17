@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="org.eclipse.core.resources.win32.x86_64_3.5.0.v20121203-0906">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../squas/lib/cdt/org.eclipse.core.resources.win32.x86_64_3.5.0.v20121203-0906.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

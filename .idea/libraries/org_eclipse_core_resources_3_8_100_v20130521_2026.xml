@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="org.eclipse.core.resources_3.8.100.v20130521-2026">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../squas/lib/cdt/org.eclipse.core.resources_3.8.100.v20130521-2026.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,56 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Squas:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Squas_jar</output-path>
+    <root id="archive" name="Squas.jar">
+      <element id="module-output" name="Squas" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/cdt/org.eclipse.cdt.core.lrparser_5.2.0.201607151550.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/cdt/org.eclipse.cdt.core.parser.upc_5.1.0.201607151550.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/richtextfx-fat-0.10.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/cdt/org.eclipse.cdt.core.native_5.9.0.201607151550.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/gson-2.8.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/cia.fit.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/commons-io-2.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/cdt/org.eclipse.cdt.core.win32.x86_5.4.1.201607151550.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/cdt/org.eclipse.cdt.core.aix_5.4.0.201607151550.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/org.eclipse.equinox.common_3.7.0.v20150402-1709.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/cdt/org.eclipse.cdt.core.win32.x86_64_5.4.1.201607151550.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/log4j-1.2.16.jar" path-in-jar="/" />
+      <element id="library" level="project" name="org.eclipse.cdt.core.lrparser.xlc.source_5.1.0.201607151550" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/cdt/org.eclipse.core.resources_3.8.100.v20130521-2026.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/cdt/org.eclipse.cdt.core.linux.x86_64_5.3.0.201607151550.jar" path-in-jar="/" />
+      <element id="library" level="project" name="org.eclipse.cdt.core.native.source_5.9.0.201607151550" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/cdt/org.eclipse.cdt_9.0.0.201607151550.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/xmlbeans-2.6.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/rsyntaxtextarea-2.6.0-SNAPSHOT.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/cdt/org.eclipse.cdt.core.lrparser.xlc_5.1.0.201607151550.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/weblaf-complete-1.28.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/jeval.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/cdt/org.eclipse.core.resources.win32.x86_64_3.5.0.v20121203-0906.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/hamcrest-all-1.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/cdt/org.eclipse.cdt.core.linux.ppc64_5.2.0.201607151550.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/cdt/org.eclipse.equinox.common_3.7.0.v20150402-1709.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/poi-ooxml-schemas-3.14-20160307.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/cdt/org.eclipse.cdt.core.linux_5.3.0.201607151550.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/org.eclipse.cdt.core_6.10.0.201912051559.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/junit-4.12.jar" path-in-jar="/" />
+      <element id="library" level="project" name="org.eclipse.cdt.core.macosx.source_5.3.0.201607151550" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/cdt/org.eclipse.osgi_3.9.1.v20130814-1242.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/jmetro-8.6.14.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/poi-ooxml-3.14-20160307.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/json-simple-1.1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/cdt/org.eclipse.cdt.core.linux.x86_5.3.0.201607151550.jar" path-in-jar="/" />
+      <element id="library" level="project" name="org.eclipse.cdt.core.lrparser.source_5.2.0.201607151550" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/poi-3.14-20160307.jar" path-in-jar="/" />
+      <element id="library" level="project" name="org.eclipse.cdt.core.source_6.0.0.201607151550" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/cdt/org.eclipse.cdt.core.macosx_5.3.0.201607151550.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/cdt/org.eclipse.cdt.core.linux.ppc64le_1.0.0.201607151550.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/cdt/org.eclipse.cdt.core.win32_5.4.1.201607151550.jar" path-in-jar="/" />
+      <element id="library" level="project" name="org.eclipse.cdt.core.parser.upc.source_5.1.0.201607151550" />
+      <element id="library" level="project" name="org.eclipse.cdt.core.win32.source_5.4.1.201607151550" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/cdt/org.eclipse.cdt.core_6.0.0.201607151550.jar" path-in-jar="/" />
+      <element id="library" level="project" name="org.eclipse.cdt.core.linux.source_5.3.0.201607151550" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/cdt/com.ibm.icu_54.1.1.v201501272100.jar" path-in-jar="/" />
+      <element id="library" level="project" name="org.eclipse.cdt.core.aix.source_5.4.0.201607151550" />
+    </root>
+  </artifact>
+</component>
